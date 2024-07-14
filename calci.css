@@ -1,0 +1,22 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-image:url("https://wallpaperaccess.com/full/121229.jpg");
+    color:black;
+    text-align:center;
+}
+h1{
+    font-size: 45px;
+}
+input{
+    width=75px;
+    height=50px;
+    padding=75px;
+    font-size:45px;
+    border-radius:10px;
+    margin:10px
+}
+.btn:hover{
+    background-color:orangered;
+    cursor:pointer;
+}
